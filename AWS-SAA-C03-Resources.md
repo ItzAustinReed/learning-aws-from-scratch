@@ -19,7 +19,7 @@ To clear the SAA-C03 exam, you need a strong grasp of the **AWS Well-Architected
 
 For a deep dive into real-world scenario analysis, preparation strategies, and exam day lessons, check out this detailed guide:
 
-* [My Journey to AWS SAA-C03: Architecture Trade-offs, Preparation Tips, and Exam Day Lessons](https://itzaustinreed.hashnode.dev/my-journey-to-aws-saa-c03-architecture-trade-offs-preparation-tips-and-exam-day-lessons)
+* [My Journey to AWS SAA-C03: Architecture Trade-offs, Preparation Tips, and Exam Day Lessons](https://telegra.ph/How-I-Passed-the-AWS-Solutions-Architect-Associate-SAA-C03-Exam-My-Proven-Study-Guide-08-16)
 
 ---
 
