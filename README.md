@@ -33,10 +33,17 @@ Learning AWS as a student can feel overwhelming at first because there are so ma
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure & Study Directory
 
-* `README.md` - High-level study guide, architectural concepts, and personal learnings.
-* `AWS-SAA-C03-Resources.md` - (Coming Soon / In Progress) Detailed exam notes, domain breakdowns, and scenario practice tips for the AWS Solutions Architect Associate track.
+### 📘 Certification Guides & Resources
+* [`AWS-SAA-C03-Resources.md`](./AWS-SAA-C03-Resources.md) - Solutions Architect Associate exam domains, lab scenarios, and study guide.
+* [`AWS_CLF_C02_Study_Guide_Notes.md`](./AWS_CLF_C02_Study_Guide_Notes.md) - Cloud Practitioner foundational concepts and service breakdowns.
+
+### 📝 AWS Architecture Notes
+* [`notes/AWS-Architecture-Notes.md`](./notes/AWS-Architecture-Notes.md) - Well-Architected Framework, VPC routing, and database design trade-offs.
+
+### 🛠️ Automation & Python Scripts
+* [`scripts/aws_resource_audit.py`](./scripts/aws_resource_audit.py) - Python Boto3 script for auditing S3 buckets and EC2 instance states.
 
 ---
 
