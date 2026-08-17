@@ -216,6 +216,15 @@ ightarrow$ CloudFront).
 
 ---
 
+---
+
+🔗 Official AWS Documentation & Certification Resources
+
+* [AWS Certified Solutions Architect - Associate Official Page](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - Exam guide, passing scores, and scheduling portal.
+* [AWS Well-Architected Center](https://docs.aws.amazon.com/architecture-center/latest/well-architected/) - Architectural best practices and whitepapers.
+* [AWS Documentation Portal](https://docs.aws.amazon.com/) - Official user guides and API references across all AWS services.
+* [Official AWS GitHub Organization](https://github.com/awsdocs) - Open-source AWS documentation repositories and code samples.
+
 ## Conclusion
 
 Preparing for the AWS Certified Cloud Practitioner (CLF-C02) is less about memorizing definitions and more about understanding **when and why** to choose specific AWS services based on operational goals. By pacing your study across distinct phases and working through scenario-driven practice questions, you will build both the confidence to pass the exam and the practical foundation to navigate the AWS cloud environment.
