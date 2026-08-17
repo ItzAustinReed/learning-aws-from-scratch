@@ -28,3 +28,12 @@ For a deep dive into real-world scenario analysis, preparation strategies, and e
 1. **Identify the Constraint**: Always read the last sentence of the scenario first to see if it prioritizes *cost*, *performance*, *resilience*, or *minimal operational effort*.
 2. **Eliminate Anti-Patterns**: Watch out for options that involve manual intervention, hardcoded credentials, or over-provisioned static instances.
 3. **Pacing**: Aim for around 2 minutes per question to leave 10–15 minutes at the end to review flagged questions.
+
+---
+
+🔗 Official AWS Documentation & Certification Resources
+
+* [AWS Certified Solutions Architect - Associate Official Page](https://aws.amazon.com/certification/certified-solutions-architect-associate/) - Exam guide, passing scores, and scheduling portal.
+* [AWS Well-Architected Center](https://docs.aws.amazon.com/architecture-center/latest/well-architected/) - Architectural best practices and whitepapers.
+* [AWS Documentation Portal](https://docs.aws.amazon.com/) - Official user guides and API references across all AWS services.
+* [Official AWS GitHub Organization](https://github.com/awsdocs) - Open-source AWS documentation repositories and code samples.
