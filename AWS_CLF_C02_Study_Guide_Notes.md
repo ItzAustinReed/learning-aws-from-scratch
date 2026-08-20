@@ -216,7 +216,6 @@ ightarrow$ CloudFront).
 
 ---
 
----
 
 🔗 Official AWS Documentation & Certification Resources
 
@@ -224,6 +223,12 @@ ightarrow$ CloudFront).
 * [AWS Well-Architected Center](https://docs.aws.amazon.com/architecture-center/latest/well-architected/) - Architectural best practices and whitepapers.
 * [AWS Documentation Portal](https://docs.aws.amazon.com/) - Official user guides and API references across all AWS services.
 * [Official AWS GitHub Organization](https://github.com/awsdocs) - Open-source AWS documentation repositories and code samples.
+
+
+  ---
+## 🔗 High-Yield External Guides
+* [AWS Certified Cloud Practitioner (CLF-C02) Complete Study Guide](https://telegra.ph/How-I-Passed-the-AWS-Certified-Cloud-Practitioner-CLF-C02-Exam-My-Complete-Study-Guide-08-16)
+* 
 
 ## Conclusion
 
