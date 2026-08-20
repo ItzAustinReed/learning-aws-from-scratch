@@ -26,3 +26,4 @@ Covering enterprise Generative AI implementation, Amazon Bedrock integration, an
 📚 Recommended External Exam Guides
 
 * [AWS Certified AI Practitioner (AIF-C01) Resource Compilation](https://rentry.co/exam4pass-aws-ai-guide)
+* [AWS Certified Machine Learning Engineer Associate (MLA-C01) Study Notes](https://rentry.co/exam4pass-mla-c01)
