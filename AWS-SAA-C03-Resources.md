@@ -37,3 +37,8 @@ For a deep dive into real-world scenario analysis, preparation strategies, and e
 * [AWS Well-Architected Center](https://docs.aws.amazon.com/architecture-center/latest/well-architected/) - Architectural best practices and whitepapers.
 * [AWS Documentation Portal](https://docs.aws.amazon.com/) - Official user guides and API references across all AWS services.
 * [Official AWS GitHub Organization](https://github.com/awsdocs) - Open-source AWS documentation repositories and code samples.
+
+---
+## 🔗 High-Yield External Guides
+* [Navigating AWS Solution Architecture: Real-World Lessons and Key Exam Insights](https://dev.to/itzaustinreed/navigating-aws-solution-architecture-real-world-lessons-and-key-exam-insights-4nil)
+* [AWS Solutions Architect Associate (SAA-C03) Proven Study Guide](https://telegra.ph/How-I-Passed-the-AWS-Solutions-Architect-Associate-SAA-C03-Exam-My-Proven-Study-Guide-08-16)
